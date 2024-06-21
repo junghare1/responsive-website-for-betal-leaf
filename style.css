@@ -1,0 +1,67 @@
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Navigation Bar */
+  .navbar {
+    padding: 20px 0;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+  }
+  
+  /* Hero Section */
+  .jumbotron {
+    background-image: url('Ash Twin Pocket Checked Overshirt.jpeg');
+    background-size: cover;
+    color: #fff;
+    padding: 150px 0;
+  }
+  
+  /* About Section */
+  #about {
+    padding: 100px 0;
+  }
+  
+  /* Products Section */
+  #products {
+    padding: 100px 0;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .card-text {
+    font-size: 1.1rem;
+  }
+  
+  /* Contact Section */
+  #contact {
+    padding: 100px 0;
+  }
+  
+  .form-control {
+    font-size: 1.1rem;
+  }
+  
+  /* Footer */
+  footer {
+    padding: 20px 0;
+  }
+  
